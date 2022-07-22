@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.App {
+  height: 100vh;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.centered {
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  width: 50%;
+  border: 3px dashed rgba(8, 124, 233, 0.192);
+  padding: 10px;
+}
